@@ -48,6 +48,6 @@
 
 <br clear="both">
 
-<img src="https://github.com/luizskyline/readme/blob/b48d4cdb2b9da72c90e096a3b9633cf20a55c243/github-contribution-grid-snake-dark.svg"/>
+<img align="center" src="https://github.com/luizskyline/readme/blob/b48d4cdb2b9da72c90e096a3b9633cf20a55c243/github-contribution-grid-snake-dark.svg"/>
 
 ###
