@@ -27,7 +27,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
   <img src="https://github.com/luizskyline/readme/blob/7ec917c10d0facd453dabf164c4194df42b51a1f/Fiap.png" height="30" />
 <img width="12" />
-  <img src="https://github.com/luizskyline/readme/blob/7ec917c10d0facd453dabf164c4194df42b51a1f/alura.png" />
+  <img align="right" src="https://github.com/luizskyline/readme/blob/7ec917c10d0facd453dabf164c4194df42b51a1f/alura.png" />
 </div>
 
 ###
