@@ -28,7 +28,7 @@
   <img src="https://github.com/luizskyline/readme/blob/7ec917c10d0facd453dabf164c4194df42b51a1f/Fiap.png" height="30" />
 <img width="12" />
   <img src="https://github.com/luizskyline/readme/blob/7ec917c10d0facd453dabf164c4194df42b51a1f/alura.png" height="30" />
-<img width="12" />
+<img width="30" />
 </div>
 
 ###
